@@ -1,0 +1,13 @@
+.row {
+ min-height: 100px;
+}
+.bg-blue {
+  background:lightblue;
+}
+.card-white{
+  background:white;
+  padding:30px;
+}
+.container-fluid{
+  padding:30px;
+}
