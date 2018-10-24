@@ -2,5 +2,46 @@
   background:lightblue;
 }
 .bg-gray{
-  background:darkslategray;
+  background-color:darkslategray;
+}
+.content {
+  color:white;
+}
+.bottom-tag {
+  margin-left:8rem;
+  margin-bottom: 5rem;
+}
+.big-icon {
+  font-size:3rem;
+  color:white;
+}
+.icons {
+  margin-left:12rem;
+}
+.social {
+  color:white;
+  
+}
+.tech-logo {
+   margin-top: 6rem;
+}
+.thumbnails{
+  margin-left: 20rem;
+  margin-top:3rem;
+  margin-bottom:2rem;
+}
+.credits{
+  margin-left:16rem;
+  font-size: 2rem;
+  color: white;
+}
+.boi {
+  margin-top: 22rem;
+}
+.desc{
+  font-size: 1.25rem;
+  color:white;
+}
+.bg-aqua-fade{
+  background:linear-gradient(to right bottom, aqua, rgb(251, 101, 126));
 }
