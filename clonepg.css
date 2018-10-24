@@ -8,7 +8,7 @@
   color:white;
 }
 .bottom-tag {
-  margin-left:8rem;
+ 
   margin-bottom: 5rem;
 }
 .big-icon {
@@ -16,7 +16,7 @@
   color:white;
 }
 .icons {
-  margin-left:12rem;
+ text-align: center;
 }
 .social {
   color:white;
@@ -24,19 +24,19 @@
 }
 .tech-logo {
    margin-top: 6rem;
+  
 }
-.thumbnails{
-  margin-left: 20rem;
-  margin-top:3rem;
-  margin-bottom:2rem;
-}
+.social{
+  margin-top:4rem;
+float:right;
+} 
 .credits{
-  margin-left:16rem;
   font-size: 2rem;
   color: white;
+  float:right;
 }
 .boi {
-  margin-top: 22rem;
+  margin-top: 5rem;
 }
 .desc{
   font-size: 1.25rem;
@@ -44,4 +44,7 @@
 }
 .bg-aqua-fade{
   background:linear-gradient(to right bottom, aqua, rgb(251, 101, 126));
+}
+.dood {
+padding-top:5px;
 }
