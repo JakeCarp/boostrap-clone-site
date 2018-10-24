@@ -1,0 +1,18 @@
+.alpha {
+  background: black;
+}
+.beta {
+  background: gray;
+}
+.charlie {
+  background:blue;
+}
+.delta{
+  background:red;
+}
+.row {
+  height: 100px;
+}
+.content {
+  text-align:center;
+}
