@@ -32,6 +32,7 @@ float:right;
 } 
 .credits{
   font-size: 2rem;
+  font-family:'Times New Roman', Times, serif;
   color: white;
   float:right;
 }
@@ -46,5 +47,27 @@ float:right;
   background:linear-gradient(to right bottom, aqua, rgb(251, 101, 126));
 }
 .dood {
-padding-top:5px;
+border:2.5px double black;
+margin-top:5px;
+margin-bottom:5px;
+}
+.card-title {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  text-decoration-line: underline;
+  font-weight: 100;
+ letter-spacing: 10px;
+}
+.bottom-title {
+   font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  text-decoration-line: underline;
+  font-weight: 100;
+ letter-spacing: 10px;
+}
+.card-text {
+  font-family: 'Times New Roman', Times, serif;
+}
+.bottom-tag {
+  font-family:'Times New Roman', Times, serif;
 }
