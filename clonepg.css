@@ -1,11 +1,11 @@
-.bg-blue{
-  background:lightblue;
-}
 .bg-gray{
-  background-color:darkslategray;
+  background-image:url(/images/BG.jpg);
+  background-position: center;
+  background-size: cover;
 }
 .content {
   color:white;
+  text-shadow:0 0 1.5px black;
 }
 .bottom-tag {
  
@@ -16,7 +16,13 @@
   color:white;
 }
 .icons {
- text-align: center;
+ display:flex;
+ align-items:center;
+ justify-items:center;
+}
+.icon-container {
+  justify-content:center;
+  align-content:center;
 }
 .social {
   color:white;
